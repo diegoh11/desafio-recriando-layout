@@ -1,0 +1,129 @@
+body {
+
+  background-color:#2C2B3D ;
+
+ 
+}
+
+ul, p, h1 {
+
+  color: white;
+
+}
+
+span {
+color: #00BFA6;
+
+}
+
+ul {
+   color: #C2C2C2;
+  font-family: 'jetbrains mono', sans-serif;
+
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  margin-left:710px;
+  margin-top: 50px;
+
+  list-style: none;
+
+}
+
+ul a:hover {
+
+  font-weight: bold;
+  color: #00BFA6;
+  
+}
+
+ul li a{
+  color: white;
+  
+}
+
+
+
+
+h1 {
+
+  font-family: 'jetbrains mono', sans-serif;
+  line-height: 40px;
+  font-size: 36px;
+}
+
+p {
+   font-size: 16px;
+  font-family: 'opens sans', sans-serif;
+  color: #C2C2C2;
+  text-align: center;
+  
+
+  line-height: 28px;
+
+}
+
+a:link {
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  align-items: baseline;
+  margin-left: 160px;
+  margin-top: 40px;
+}
+
+.hero {
+
+  display: flex;
+
+  justify-content:space-evenly;
+  
+
+  margin-top: 80px;
+  
+
+}
+
+line #linha {
+  margin-top: 100px;
+  margin-left: 460px;
+
+
+}
+
+footer p, a{
+
+  font-family: 'jetbrains mono', sans-serif;
+  line-height: 28px;
+}
+
+
+
+footer p a {
+  color: white;
+}
+
+footer p a:hover {
+
+  font-weight: bold;
+  color: #00BFA6;
+}
+
+ footer #lock {
+  position: fixed;
+  
+}
+
+
+
+
+
+
+
+
+  
+
+  
+  
